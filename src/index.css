@@ -1,0 +1,15 @@
+.contenedor_carta{
+    overflow-x: auto;
+    height: 400px;
+    overflow-y: hidden;
+    display: flex;
+}
+
+.fondo{
+    background-image: url("https://us.123rf.com/450wm/brgfx/brgfx1802/brgfx180200263/95665369-background-template-with-blue-sky-and-white-clouds-illustration.jpg") ;
+    background-size: cover;
+}
+
+body{
+    font-family:
+}
